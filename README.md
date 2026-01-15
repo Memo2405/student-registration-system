@@ -27,4 +27,4 @@ The Student Registration System is a web-based application designed to manage st
   Abigael Cherotich,Gloria Chepchumba
 
 ## Project Repository URL
-https://github.com/anold589/student-registration-system
+https://github.com/anold589/student-course-registration-system
