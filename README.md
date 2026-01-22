@@ -10,7 +10,7 @@
 7. Abigael Cherotich -E020-01-0913/2023
 8. Gloria Chepchumba- E020-01-0912/2023
 9. Pauline Wambete- E020-01-0881/2023
-10. Ivy Chekurui- E020-01-0905/2023
+10. Ivy Chepkurui- E020-01-0905/2023
 ## Project Description
 The Student Registration System is a web-based application designed to manage student enrollment and course registration processes. Students can register and enroll in available courses, lecturers can manage course details and view enrolled students, and administrators can oversee the entire system. The system aims to improve efficiency, accuracy, and accessibility of academic records.
 
